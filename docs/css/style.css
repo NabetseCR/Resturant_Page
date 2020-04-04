@@ -139,12 +139,12 @@ p{
     height: 400px;
 }
 
-#home-info .info-img{
+#home-info .info-img {
     float: left;
     width: 50%;
     background: url('../img/background_3.jpeg') no-repeat;
-    min-width: 100%;
-}
+    min-height: 100%;
+  }
 
 #home-info .info-content{
     float: right;
